@@ -1,0 +1,1 @@
+# pascal_triangle_less_than_6
